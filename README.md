@@ -25,6 +25,8 @@
 - Push this folder in your resources folder. <br>
 - Then, go to your server.cfg and : <br>
 - ensure aknx_billing <br>
+- Then, delete "esx_billing" beacuse you have aknx_billing.
+- Then, install the sql of aknx_billing and go !
 - ITS IMPOSSIBLE TO RENAME THIS RESOURCE BECAUSE CRASH SERVER ! <br>
 
 <img border="0" src="https://i.imgur.com/4rD81uL.gif">

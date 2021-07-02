@@ -1,7 +1,7 @@
 <h1> 💻 What's aknx_billing ? </h1>
 <img border="0" src="https://cdn.discordapp.com/attachments/780131463160397825/860515372351225896/unknown.png">
 <img border="0" src="https://cdn.discordapp.com/attachments/780131463160397825/860515855296102490/unknown.png">
-<img border="0" src="https://cdn.discordapp.com/attachments/780131463160397825/860516325930565642/unknown.pngg">
+<img border="0" src="https://cdn.discordapp.com/attachments/780131463160397825/860516325930565642/unknown.png">
 - Discord AKNX ORG FOR OTHER SCRIPTS : discord.gg/CyWHSYybEF <br> <br>
 
 <h2> 🌐 English </h2>

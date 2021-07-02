@@ -1,16 +1,16 @@
 -- Billing Menu
-Traduction.BillingMenuTitle                    = "Factures"
-Traduction.BillingMenuDescription              = "Menu Factures"
-Traduction.RefreshBillingButtonTitle           = "Actualiser les factures"
-Traduction.PlayerDontHaveBillingSeparatorTitle = "~r~Aucune facture disponible."
-Traduction.PlayerBillingAvailable              = "↓ Vos Factures ↓"
-Traduction.DateDescriptionBillingTitle         = "Date de la facture : ~y~"
+Traduction.BillingMenuTitle                    = "Billing"
+Traduction.BillingMenuDescription              = "Billing Menu"
+Traduction.RefreshBillingButtonTitle           = "Refresh the billings"
+Traduction.PlayerDontHaveBillingSeparatorTitle = "~r~Not billing."
+Traduction.PlayerBillingAvailable              = "↓ Your bills ↓"
+Traduction.DateDescriptionBillingTitle         = "Date of the billing : ~y~"
 Traduction.ColorMoney = "~g~" -- green here
 
 -- Notifications
-Config.Notification.ReceivedBilling     = "Vous venez de recevoir une facture."
-Config.Notification.PayBilling          = "Vous venez de payer une facture de ~g~"
-Config.Notification.ReceivedPayement    = "vient de payer sa facture de ~g~"
-Config.Notification.PlayerDontHaveMoney = "~r~Vous n\'avez pas assez d\'argent pour payer cette facture !"
-Config.Notification.TargetDontHaveMoney = "~r~n\'a pas assez d\'argent !"
-Config.Notification.PlayerNotOnline     = "~r~Le joueur n\'est pas connecté !"
+Config.Notification.ReceivedBilling     = "You just received an invoice."
+Config.Notification.PayBilling          = "You just paid a bill for ~g~"
+Config.Notification.ReceivedPayement    = "just paid his bill for ~g~"
+Config.Notification.PlayerDontHaveMoney = "~r~You don\'t have enough money to pay that bill!"
+Config.Notification.TargetDontHaveMoney = "~r~dont have a money !"
+Config.Notification.PlayerNotOnline     = "~r~The player is not connect !"
